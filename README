@@ -1,0 +1,18 @@
+It's a full modification of the airport in Cayo Perico.
+
+1 st you should have patoche bridge : https://www.youtube.com/watch?v=DG7VLwkG5HI
+
+2 nd you need to create a folder like this : 
+
+FOLDER : stream
+add inside : CayoStation.ymap
+
+Create a fxmanifest.lua 
+
+You're done.
+
+Add ensure : CayoStation 
+
+If you don't know how to do this, you got some tutorial on YOUTUBE.
+
+I hope you enjoy the project. If you want some more you can check : CayoPalm , it will add more tree in cayo for you're player :)
